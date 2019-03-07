@@ -84,10 +84,10 @@ B : Interviewees
 ```
 ## Models and Annotations
 ### Artifact Model
-![AM1](/images/SS1.png)
-![AM2](/images/SS2.png)
-![AM3](/images/SS3.png)
-![AM4](/images/SS4.png)
+![AM1](/images/SS1.png | width=100)
+![AM2](/images/SS2.png | width=100)
+![AM3](/images/SS3.png | width=100)
+![AM4](/images/SS4.png | width=100)
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
