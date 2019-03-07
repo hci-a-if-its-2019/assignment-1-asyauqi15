@@ -82,14 +82,17 @@ B : Interviewees
 58. B : Bingungin, Mas. Soalnya susah diliat, kayak tadi nyariin lab yang lain. Ya walaupun sudah dibantu dengan fitur pencarian tapi masih susah.
 59. A : Oke, terima kasih atas bantuannya.
 ```
+
 ## Models and Annotations
 ### Artifact Model
 ![AM1](/images/SS1.png)
 ![AM2](/images/SS2.png)
 ![AM3](/images/SS3.png)
 ![AM4](/images/SS4.png)
+
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![FM1](/images/SS5.png)
+
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
