@@ -1,7 +1,7 @@
 # Contextual Inquiry and Analysis
 ## KCV Website Description
 
-![kcv](/image/kcv-banner.jpg)
+![kcv](/images/kcv-banner.jpg)
 KCV Website is a website that contains things about the Komputasi Cerdas dan Visi Laboratory at the Informatics Major Institut Teknologi Sepuluh Nopember which covers courses, programs, facilities, achievements, lecturers, news, and so on.
 
 ## Instruction Script
