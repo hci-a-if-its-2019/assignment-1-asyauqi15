@@ -94,6 +94,7 @@ B : Interviewees
 ![FM1](/images/SS5.png)
 
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+![CM1](/images/SS6.png)
+
 ## Do's and Don't's
 Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
