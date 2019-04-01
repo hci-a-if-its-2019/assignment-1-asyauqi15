@@ -105,3 +105,14 @@ B : Interviewees
 
 ### Don't's
 - Use small text to check the older post
+
+# Remarks
+> * Thanks for completing all the parts in this assignment.
+> * It's better to use simple present tense for `Instruction Script`, not gerund.
+> * You should not reveal the participant's name in the report.
+> * Some breakdowns in `Flow` and `Cultural` models are not equipped with line-numbers referring to the `Transcript`.
+> * The second point in the `Do's` is too general: how to specifically update the website?
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 1            | 25               | 0               | 82,5               | 79,5       | 81,9  |
